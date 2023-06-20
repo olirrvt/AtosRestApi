@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "s/kfUDKTP4VXRoVEgY4w2m/9mJqgw0v3cTRlLirq8mXThvlqpi93faXeww1XjG1kZ5SkOc44N4bt2/SMkl6hkw==",
+  "dgSpecHash": "5/6gfmYe8JLvxc4r1Nuskf5CK5ibYVtK/0MA2UwiIS6I8tjUSpT3HTugBEiBa0KglW2fMndAxextk29Oo+a9oQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Taylor\\Desktop\\AtosRestAPI\\AtosRestAPI\\AtosRestAPI.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\Taylor\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\Taylor\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
     "C:\\Users\\Taylor\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\Taylor\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.18\\microsoft.aspnetcore.authentication.jwtbearer.6.0.18.nupkg.sha512",
     "C:\\Users\\Taylor\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Taylor\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Taylor\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",
