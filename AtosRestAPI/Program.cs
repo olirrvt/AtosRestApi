@@ -20,7 +20,6 @@ namespace AtosRestAPI
                         policy.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader();
                     });
             }
-
            );
 
             // Libera Injeção de Dependencia
